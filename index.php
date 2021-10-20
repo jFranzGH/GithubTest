@@ -69,10 +69,7 @@
 			<div class="container">
 			<form method="POST">
 				<div class="row">
-				  <div class="col-md-2">
-				    <label for="fname" class="form-label">First Name</label>
-				    <input type="text" class="form-control" id="fname" name="fname" aria-describedby="emailHelp" value="<?php echo $fname; ?>">
-				  </div>
+				  
 				  <div class="col-md-2">
 				    <label for="lname" class="form-label">Lastname</label>
 				    <input type="text" class="form-control" id="lname" name="lname" aria-describedby="emailHelp" value="<?php echo $lname; ?>">
